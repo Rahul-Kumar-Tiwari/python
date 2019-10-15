@@ -37,9 +37,9 @@ print("\n\n\n")
 
 
 print("question no 3")
-p=int(input("enter age of 1st person "))
-q=int(input("enter age of 2nd person "))
-r=int(input("enter age of 3rd person "))
+p=int(input("Enter age of 1st person "))
+q=int(input("Enter age of 2nd person "))
+r=int(input("Enter age of 3rd person "))
 if (p>q) and (p>r):
 	print("1st person is oldest")
 elif (q>r) and (q>p):
