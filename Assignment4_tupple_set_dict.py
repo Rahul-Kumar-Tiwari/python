@@ -58,7 +58,7 @@ print("\n\n\n")
 print("question no 7 ")
 s='MISSISSIPPI'
 m=list(s)
-a=m.count('M')		#count the m in mississippi
+a=m.count('M')		#count the  letter 'm' in mississippi
 b=m.count('I')
 c=m.count('S')
 d=m.count('P')
